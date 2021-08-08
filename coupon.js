@@ -57,7 +57,7 @@ exports.main = async (event, context) => {
 		}
 		return data.replace('https://', 'taobao://')
 	}
-	//传入京东链接的情况
+	//传入京东链接的情况。
 	if (data.includes('jd.com')) {
 		result = await apiRequest('jd', data)
 		var url
