@@ -3,7 +3,7 @@
 
 快捷指令获取地址：
 
-https://www.icloud.com/shortcuts/dcd5f480daf444a7833c0417565d1b12
+https://www.icloud.com/shortcuts/08b218fe45524f15a1d5351ab56be161
 
 如果提示不能添加“不受信任的快捷指令”，请前往 iOS 设置---->快捷指令，开启“允许不受信任的快捷指令”再添加。
 
